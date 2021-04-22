@@ -1,10 +1,10 @@
-# this-is-not-a-function
-
-This is an SVG of Uri Goren's 20th [International Obfuscated C Code Contest (2011) entry](https://www.ioccc.org/years.html). It uses a modified version of Visual Studio's color theme and [Cascadia Code/Mono](https://github.com/microsoft/cascadia-code), with Consolas and monospace as fallback.
-
 <p align="center">
 	<img alt="Picture of not a function" src="this-is-not-a-function.svg">
 </p>
+
+# this-is-not-a-function
+
+This is an SVG of Uri Goren's 20th [International Obfuscated C Code Contest (2011) entry](https://www.ioccc.org/years.html). It uses a modified version of Visual Studio's color theme and [Cascadia Code/Mono](https://github.com/microsoft/cascadia-code), with Consolas and monospace as fallback.
 
 To compile [`goren.c`](https://www.ioccc.org/2011/goren/goren.c) in 2021, you can use this command:
 ```shell
