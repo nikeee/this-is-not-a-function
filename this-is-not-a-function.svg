@@ -11,7 +11,7 @@
 		}
 
 		tspan {
-			font-family: "Cascadia Mono", "Consolas", monospace;
+			font-family: "Cascadia Mono", Consolas, monospace;
 			white-space: pre;
 			fill: #333;
 		}
@@ -21,7 +21,7 @@
 		.number { fill: #098658; }
 	</style>
 
-	<text x="0" y="0" font-size="15" dy="0">
+	<text x="5" y="0" font-size="15" dy="0">
 		<tspan x="0" dy="1em">typedef unsigned char t;t*F="%c",l[]="|\\/=_ \n](.\0(),*(.(=(}*.)[[*.",N='\n',*</tspan>
 		<tspan x="0" dy="1.2em">r;typedef(*H)();extern H Ar;Q(a){return(a|-a)>>31;}H S(c,a){return(H)(a&amp;~c|(int</tspan>
 		<tspan x="0" dy="1.2em">)Ar&amp;c);}extern t*ist;V(t*u){*u^=*u&amp;2^(*u>>7)*185;}Z(t*u,t n){*u-=n;}e(t c,H h){</tspan>
