@@ -1,0 +1,46 @@
+<svg
+	xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	width="720"
+	height="380"
+>
+	<style>
+		svg {
+			background-color: white;
+			margin: 10px;
+		}
+
+		tspan {
+			font-family: "Cascadia Mono", "Consolas", monospace;
+			white-space: pre;
+			fill: #333;
+		}
+		.keyword { fill: #0000ff; }
+		.string { fill: #a31515; }
+		.line-break { fill: #ee0000; }
+		.number { fill: #098658; }
+	</style>
+
+	<text x="0" y="0" font-size="15" dy="0">
+		<tspan x="0" dy="1em">typedef unsigned char t;t*F="%c",l[]="|\\/=_ \n](.\0(),*(.(=(}*.)[[*.",N='\n',*</tspan>
+		<tspan x="0" dy="1.2em">r;typedef(*H)();extern H Ar;Q(a){return(a|-a)>>31;}H S(c,a){return(H)(a&amp;~c|(int</tspan>
+		<tspan x="0" dy="1.2em">)Ar&amp;c);}extern t*ist;V(t*u){*u^=*u&amp;2^(*u>>7)*185;}Z(t*u,t n){*u-=n;}e(t c,H h){</tspan>
+		<tspan x="0" dy="1.2em">R(h,Q(*                                                                 r^c));}</tspan>
+		<tspan x="0" dy="1.2em">I(){r=l                                                                 +7-4*Q(</tspan>
+		<tspan x="0" dy="1.2em">getchar                                                                 ()^*l);</tspan>
+		<tspan x="0" dy="1.2em">}R(H h,                <tspan class="keyword">int</tspan>                                              c){Ar=S</tspan>
+		<tspan x="0" dy="1.2em">(c,h);-                <tspan>main()</tspan>                                           ;}P(){r</tspan>
+		<tspan x="0" dy="1.2em">++;}z()                {                                                O(&amp;N);}</tspan>
+		<tspan x="0" dy="1.2em">O(t*c){                    printf(                                      F,+*c);</tspan>
+		<tspan x="0" dy="1.2em">}T(){r=                        <tspan class="string">"This is not a function<tspan class="line-break">\n</tspan>"</tspan>               ;}w(U){</tspan>
+		<tspan x="0" dy="1.2em">U=Z(r,8                    );                                           r-=~Q(*</tspan>
+		<tspan x="0" dy="1.2em">r/8-4);                    <tspan class="keyword">return</tspan> <tspan class="number">0</tspan>;                                    }M(){r=</tspan>
+		<tspan x="0" dy="1.2em">ist-68;                }                                                h(){t G</tspan>
+		<tspan x="0" dy="1.2em">=r[1]-r                                                                 [2]^*r;</tspan>
+		<tspan x="0" dy="1.2em">G^=30;V                                                                 (&amp;G);e(</tspan>
+		<tspan x="0" dy="1.2em">0,(O(&amp;G                                                                 ),P(P(*</tspan>
+		<tspan x="0" dy="1.2em">r++)),z));}g(){M();R(h,0);}f(){P(O(r));e('f',g);}p(){P();e('a',f);}d(){P(O(r));</tspan>
+		<tspan x="0" dy="1.2em">e('n',p);}c(u){u=r[-2];T(Ar=d);R(f,Q(u^'"'));}n(){e(w(O(l+*r%8)),c);}a(){I();R(</tspan>
+		<tspan x="0" dy="1.2em">n,0);}main(){S(Q(Ar),a)();}H              Ar;t*ist=<tspan class="string">"Rene Magritte"</tspan>-(<tspan class="number">1898</tspan>-<tspan class="number">1967</tspan>);</tspan>
+	</text>
+</svg>
